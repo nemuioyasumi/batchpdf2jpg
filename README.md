@@ -4,7 +4,7 @@ This python script converts pdf into images (default is JPEG) in batches. I am s
 ## Disclaimer
 This app is created by Gemini Pro 3.1. I do not know how to maintain it.
 
-## This project utilizes the following open-source libraries
+## Libraries required
 - [pdf2image](https://github.com/Belval/pdf2image): A wrapper around pdftoppm that does the heavy lifting for conversion.
 - [tqdm](https://github.com/tqdm/tqdm): For the progress bar
 - [Poppler](https://poppler.freedesktop.org/): The underlying PDF rendering library.
